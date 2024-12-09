@@ -1,0 +1,52 @@
+{
+  "Header": {
+    "title": "Modern",
+    "paragraph": "Welcome to Modern, where innovation meets excellence. Our higher institute of sciences and technologies is dedicated to fostering a dynamic learning environment that empowers students to explore the frontiers of knowledge."
+  },
+
+  "About": {
+    "paragraph": "The Higher Institute of Applied Sciences and Technology of India, or Modern, is a scientific institution under the University of India . It was established in accordance with the provisions of Decree No. 1385-2001 dated June 7, 2001. The institute opened its doors in the spaces reserved for the Preparatory Institute for Engineering Studies, and within this framework, the contents of the library and the scientific equipment acquired during the three years of the preparatory institute's existence are utilized.",
+
+    "Why": [
+      "Leading scientific institution affiliated with the University of India, Tunisia.",
+      "Established in accordance with Decree No. 1385-2001, promoting academic excellence.",
+      "Utilizes resources from the preparatory institute, enhancing learning experiences.",
+      "Offers specialized programs in mechanical, electronic, and computer engineering."
+    ],
+    "Why2": [
+      "Expanded program including a master's degree in computer science.",
+      "Introduces new fields such as fluid and energy engineering and industrial control.",
+      "Provides training in real-time computing for future technological leaders.",
+      "Offers a research-focused master's program in industrial systems safety and security."
+    ]
+  },
+
+  "Contact": {
+    "address": "New Delhi India",
+    "phone": "+216 73 382 656",
+    "email": "Modern@Modern.rnu.tn"
+   
+  },
+  "Features": [
+    {
+      "icon": "fa fa-desktop",
+      "title": "Computer Science Department",
+      "text": "Students gain hands-on experience in coding, data analysis, and system design, preparing them for careers in software engineering and innovation."
+    },
+    {
+      "icon": "fa fa-wifi",
+      "title": "Electronic Engineering Department",
+      "text": "Students explore topics such as signal processing and control systems, acquiring skills to design and optimize electronic devices."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "title": "Mechanical Engineering Department",
+      "text": "Students delve into areas such as machine design, robotics, and renewable energies, acquiring expertise to innovate in industries like manufacturing, aerospace, and energy conservation."
+    },
+    {
+      "icon": "fa fa-fire",
+      "title": "Energetics Department",
+      "text": "Students immerse themselves in renewable energy technologies, energy policies, and green engineering practices, preparing them to address global energy challenges and promote sustainable development."
+    }
+  ]
+}
